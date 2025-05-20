@@ -1,4 +1,4 @@
-# Sports Image Classification Model with Application
+# Sports Image Classification Model with HuggingFace Application
 
 - The huggingface application where you can try with your own sports images to test the model performance: https://huggingface.co/spaces/canmizrakli/sports_image_classification
 
